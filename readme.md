@@ -37,10 +37,6 @@ EM-DAT granted free access for [non-commercial use](https://doc.emdat.be/docs/le
 - Cao Thuc, Ta
 - Anh Duc, Nguyen
 
-
-### Last update
-- Full update logs: [Update log](/update_log.txt)
-
 ### Repository Tree  
     ├─ assets/ - Dashboard visual components
     │  ├─ images/
